@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🔭 I’m currently working on Blog Blaze
+- 🔭 I’m currently working on Blog Blaze (Blogging Application)
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate on Full Stack Web Development
 <!--- 🤔 I’m looking for help with ...
