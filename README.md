@@ -93,3 +93,8 @@
 
 <div align="center"></div>
 <br />
+
+
+
+![snake gif](https://github.com/pulkitsappal/pulkitsappal/blob/output/github-snake-dark.svg)
+
